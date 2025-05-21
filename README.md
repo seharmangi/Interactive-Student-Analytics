@@ -2,7 +2,7 @@
 
 This project contains a Jupyter Notebook that analyzes student activity data collected from a SQL database. The database content was generated using the Faker library to simulate realistic student, course, and activity records for demonstration and testing purposes.
 
-Note: Since interactive widgets and plots like the activity distribution chart and the interactive dashboard won't display properly on GitHub, screenshots of these dashboard features have been added to the repository to illustrate the interactive visualizations.
+**Note: Since interactive widgets and plots like the activity distribution chart and the interactive dashboard won't display properly on GitHub, screenshots of these dashboard features have been added to the repository to illustrate the interactive visualizations.
 
 
 ## Features
