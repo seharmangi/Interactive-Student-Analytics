@@ -1,4 +1,4 @@
-# Interactive Student Analytics
+# Interactive Student Analytics 
 
 This project contains a Jupyter Notebook that analyzes student activity data collected from a SQL database. The database content was generated using the Faker library to simulate realistic student, course, and activity records for demonstration and testing purposes.
 
